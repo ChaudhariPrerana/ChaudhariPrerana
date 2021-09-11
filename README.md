@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChaudhariPrerana
+- 👋 Hi, I’m Prerana Chaudhari
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Skills needed to become Data Scientist 
 - 💞️ I’m looking to collaborate on sharing the knnowledge.
